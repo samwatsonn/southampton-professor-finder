@@ -1,0 +1,956 @@
+Doctor Dan Burns | University of Southampton
+Skip to main content
+We would love your feedback on our new site
+Tell us what you think
+Tell us what you think
+Don't ask me again
+Open menu
+The University of Southampton
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
+Study
+Student life
+Research
+Business
+Global
+Search the site
+Search
+Study
+View all courses
+Taught postgraduate study
+Postgraduate taught degree courses
+Postgraduate taught tuition fees
+Pre-masters for international students
+Funding your postgraduate taught studies
+How to apply for a postgraduate taught degree
+Pre-sessional English courses
+Subjects
+PhDs and research degrees
+Create your own research project
+Find a PhD project
+Funding your research degree
+How to apply for a PhD or research degree
+How to make a PhD enquiry
+Support while studying your PhD or research degree
+Exchanges and studying abroad
+Undergraduate study
+Undergraduate degree courses
+Foundation year programmes
+Undergraduate tuition fees
+Customise your degree
+Funding undergraduate studies
+How to apply
+-
+Tuition fees and funding
+-
+-
+Short courses
+-
+-
+Lunchtime evening and weekend courses
+-
+-
+Clearing
+-
+-
+Summer schools
+-
+-
+Get a prospectus
+Student life
+Accommodation
+Choose your halls of residence
+Apply for accommodation
+Guaranteed accommodation
+Your accommodation options
+International and pre-sessional students
+Postgraduate accommodation
+Couples and students with children
+Renting privately
+Our accommodation areas
+Privacy notice
+Terms and conditions
+Fees and contracts
+Our cities
+Southampton
+Winchester
+Malaysia
+Sports and gyms
+Sports facilities
+Sports clubs
+Watersports centres
+Our campuses
+Avenue Campus
+Boldrewood Innovation Campus
+Highfield Campus
+University Hospital Southampton
+Waterfront Campus
+Winchester Campus
+Join our student community
+What's on
+Clubs and societies
+Sports teams
+SUSU places
+Representing you
+SUSU support and advice
+Support and money
+Living costs
+Academic and mental health support
+Support for disabled students
+Part-time work
+Health services
+Research
+Our impact
+Research projects
+Research areas
+Research facilities
+Collaborate with us
+Institutes, centres and groups
+Support for researchers
+Faculties, schools and departments
+Research jobs
+Find people and expertise
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Find people and expertise
+Global
+International students
+International Office
+Partnerships and initiatives
+Visiting delegations
+Visiting fellowships
+View all staff
+Dr Dan Burns
+Senior Enterprise Fellow
+Connect with Dan
+Email: d.burns@soton.ac.uk
+Address: B13, East Highfield Campus, University Road, SO17 1BJ
+(View in Google Maps)
+ORCID
+On this page
+About
+Research
+Publications
+About
+Dan is a Research Engineer at the IT Innovation Centre within the School of Electronics and Computer Science, University of Southampton. After a PhD in Theoretical Particle Physics from the University of Manchester completed in 2015, with a short post-doc in Particle Cosmology in 2016, he joined the IT Innovation Centre in 2017.
+He has an intimate familiarity with the data science pipeline: from the extraction of meaningful data and pre-processing, to the critical evaluation of results from machine learning algorithm studies and the deployment of machine-learned models. He is primarily driven by the vast application domain of statistics, particularly where cross-disciplinary work is involved, and has extensive experience in statistical analysis and the development of Monte-Carlo simulations.
+In the COVID-19 era, Dan has undertaken several projects to assist with the UK's national epidemic response:
+Prediction of COVID-19 hospital impact using infectious disease epidemic modelling: fitting stochastic epidemic models to time series of hospitalisations to infer hospital impact
+The statistical evaluation of new and emerging testing technologies to identify SARS-CoV-2 such as lateral flow devices and loop mediated isothermal amplification (LAMP) based technologies
+Development of models of regular testing, taking into account the epidemiology and virology of SARS-CoV-2, sociological factors of adherence to testing and isolation, operational and logistical characteristics of the programme, and then determining how a given isolation policy subsequently affects transmission
+Development of machine learning models to predict COVID-19 patient deterioration
+In addition to COVID-19 work, Dan has worked on various projects. Historically, his work has been on the following research projects:
+CrowdHEALTH (EU H2020 project): CrowdHEALTH intends to integrate high volumes of health-related heterogeneous data from multiple sources and develop data analytics tools to operate on the integrated data, with the aim of supporting policy making decisions. Dan’s work in this project is in the development of machine learning prediction algorithms to predict when patients will have the first diagnosis of a set of high-impact diseases, such as cardiovascular disease and chronic kidney disease, in a timely and accurate fashion such that one can construct possible preparation and prevention approaches. The project utilises the prediction algorithm for population risk stratification.
+BigMedilytics (EU H2020 project): BigMedilytics aims to transform the EU healthcare sector by using state-of-the-art big data technologies to achieve breakthrough productivity in the sector by reducing cost, improving patient outcomes and delivering better access to healthcare facilities simultaneously. Dan’s work in this project revolves around studying self-reported patient data associated with chronic obstructive pulmonary disease, linked with weather and pollution data in the patient’s home environment, to predict COPD exacerbation events. He is currently working on a machine learning algorithm to predict when these events will occur based on the linked data, so that patients can either prepare for the event by obtaining medication, or by preventing the event altogether.
+Dan has also completed several pieces of commercially funded work as part of the VIVACE accelerated capability environment, as well as direct projects from the UK Home Office.
+Research
+Research
+Research groups
+Member of:
+IT Innovation
+Digital Health and Biomedical Engineering
+Current research
+Dan’s research interests spans multiple fields in computer science and statistics.
+In statistics, his core interests are the following:
+Development of more effective sampling techniques for producing samples from multivariate distributions
+Development of metrics for the assessment of statistical conditional models/machine learning models as applied to data
+The synthesis of Monte-Carlo simulation with machine learning and statistical learning
+In data science, his core interests are in the following:
+Missing data approaches: the vast majority of real-world applications of machine learning methods involve the problem of missing data. Imputation is one the most common approaches to handling missing data, and is practically useful. However, for accurate imputation, one needs a lot of data, as the imputation problem is often a more difficult problem to solve than the machine learning task at hand. Dan has great interest in developing approaches to missing data that do not involve imputation and exploits the full data in other manners, either through the modification of existing machine learning algorithms, or by the creation of new ones.
+Electronic Patient Record event prediction: having an advanced knowledge of certain unfavourable medical events occurring, such as the first diagnosis of a high-impact disease or medical events that can repeat such as myocardial infarction, for individual patients can be used to either prepare for the event’s occurrence, or prevent it altogether. Dan is interested in developing approaches to predict these events, using either statistical analysis or machine learning methodologies, and developing models of disease progression. He is primarily interested in approaches that are generic, i.e., using electronic patient record datasets to determine the most significant factors affecting the events of interest rather than explicit domain expertise.
+Other interests within data science includes:
+Development of new classification techniques for the exploration of scientific data
+Time series, image, audio/speech specific feature extraction and classification approaches
+Dan holds other research interests outside of data science and statistics, including cryptography and efficient fully homomorphic encryption schemes for secure cloud computation.
+Research projects
+Completed projects
+Predicting Hospital Length Of Stay In Viral Infections Patients
+Researchers:
+Doctor Dan Burns
+,
+Professor Michael Boniface
+About
+Publications
+Publications
+15 publications
+Page 1 of 2
+Pilot study to evaluate hypercoagulation and inflammation using rotational thromboelastometry and calprotectin in COVID-19 patients
+Sophia Stanford,
+Ashok Roy,
+Catherine Rea,
+Ben Harris,
+Antony
+Ashton,
+Sarah Mangles,
+Tamara Everington,
+Rayan Taher,
+Daniel Burns,
+Emily Arbuthnot Smith,
+&
+Tom Cecil
+, 2023
+, PLoS ONE
+, 18
+(1 January)
+DOI: 10.1371/journal.pone.0269738
+Type: article
+Towards a better understanding of human iNKT cell subpopulations for improved clinical outcomes
+Alex Look,
+Daniel Burns,
+Ivo Tews,
+Ali Roghanian,
+&
+Salah Mansour
+, 2023
+, Frontiers in Immunology
+, 14
+DOI: 10.3389/fimmu.2023.1176724
+Type: review
+COVID-19 Oximetry @home: evaluation of patient outcomes
+Michael Boniface,
+Daniel Burns,
+Christopher Duckworth,
+Mazen Ahmed,
+Franklin Duruiheoma,
+Htwe Armitage,
+Naomi Ratcliffe,
+John Duffy,
+Caroline O’Keeffe,
+&
+Matt Inada-Kim
+, 2022
+, BMJ Open Quality
+, 11
+DOI: 10.1136/bmjoq-2021-001584
+Type: article
+Prediction of chronic obstructive pulmonary disease exacerbation events by using patient self-reported data in a digital health app: statistical evaluation and machine learning approach
+Francis P Chmiel,
+Dan Burns,
+John Brian Pickering,
+Alison Blythin,
+Thomas MA Wilkinson,
+&
+Michael J Boniface
+, 2022
+, JMIR Medical Informatics
+, 10
+(3)
+, 11
+DOI: 10.2196/26499
+Type: article
+Reverse-transcription loop-mediated isothermal amplification has high accuracy for detecting severe acute respiratory syndrome coronavirus 2 in saliva and nasopharyngeal/oropharyngeal swabs from asymptomatic and symptomatic individuals
+Stephen P. Kidd,
+Daniel Burns,
+Bryony Armson,
+Andrew D. Beggs,
+Emma L.A. Howson,
+Anthony Williams,
+Gemma Snell,
+Emma L. Wise,
+Alice Goring,
+Zoe Vincent-Mistiaen,
+Seden Grippon,
+Jason Sawyer,
+Claire Cassar,
+David Cross,
+Thomas Lewis,
+Scott M Reid,
+Samantha Rivers,
+Joe James,
+Paul Skinner,
+Ashley Banyard,
+Kerrie Davies,
+Anetta Ptasinska,
+Celina Whalley,
+Jack Ferguson,
+Claire Bryer,
+Charlie Poxon,
+Andrew Bosworth,
+Michael Kidd,
+Alex Richter,
+Jane Burton,
+Hannah Love,
+Sarah Fouch,
+Claire Tillyer,
+Amy Sowood,
+Helen Patrick,
+Nathan Moore,
+Michael Andreou,
+Nick Morant,
+Rebecca Houghton,
+Joe Parker,
+Joanne Slater-Jefferies,
+Ian Brown,
+Cosima Gretton,
+Zandra Deans,
+Deborah Porter,
+Nicholas J. Cortes,
+Angela Douglas,
+Sue L. Hill,
+Keith M. Godfrey,
+&
+Veronica L. Fowler
+, 2022
+, Journal of Molecular Diagnostics
+, 24
+(4)
+, 320--336
+DOI: 10.1016/j.jmoldx.2021.12.007
+Type: article
+Diagnostic accuracy of Loop mediated isothermal amplification coupled to Nanopore sequencing (LamPORE) for the detection of SARS-CoV-2 infection at scale in symptomatic and asymptomatic populations.
+Anetta
+Ptasinska,
+Celina M. Whalley,
+Andrew Bosworth,
+Charlotte Poxon,
+Claire
+Bryer,
+Nicholas
+Machin,
+Seden
+Grippon,
+Emma L
+Wise,
+Bryony
+Armson,
+Emma L. A.
+Howson,
+Alice
+Goring,
+Gemma
+Snell,
+Jade Forster,
+Christopher Mattocks,
+Sarah May Frampton,
+Rebecca Anderson,
+David Cleary,
+Joe Parker,
+Konstantinos Boukas,
+Nichola Graham,
+Doriana Cellura,
+Emma Garratt,
+Rachel Skilton,
+Hana
+Sheldon,
+Alla
+Collins,
+Nusreen Ahmad-Saeed,
+Simon
+Friar,
+Daniel Burns,
+Tim Williams,
+Keith Godfrey,
+Zandra Deans,
+Angela Douglas,
+Sue Hill,
+Michael Kidd,
+Deborah
+Porter,
+Stephen P. Kidd,
+Nicholas J
+Cortes,
+Veronica L.
+Fowler,
+Tony Williams,
+Alex G. Richter,
+&
+Andrew D. Beggs
+, 2021
+, Clinical Microbiology and Infection
+, 27
+(9)
+, 1348.e1--1348.e7
+DOI: 10.1016/j.cmi.2021.04.008
+Type: article
+Using explainable machine learning to characterise data drift and detect emergent health risks for emergency department admissions during COVID-19
+Christopher Duckworth,
+Francis P. Chmiel,
+Dan K. Burns,
+Zlatko D. Zlatev,
+Neil M. White,
+Thomas W.V. Daniels,
+Michael Kiuber,
+&
+Michael J. Boniface
+, 2021
+, Scientific Reports
+, 11
+DOI: 10.1038/s41598-021-02481-y
+Type: article
+Using explainable machine learning to identify patients at risk of reattendance at discharge from emergency departments
+F. P. Chmiel,
+D. K. Burns,
+M. Azor,
+F. Borca,
+M. J. Boniface,
+Z. D. Zlatev,
+N. M. White,
+T. W.V. Daniels,
+&
+M. Kiuber
+, 2021
+, Scientific Reports
+, 11
+(1)
+DOI: 10.1038/s41598-021-00937-9
+Type: article
+COVID Oximetry @home: evaluation of patient outcomes
+Michael Boniface,
+Daniel Burns,
+Chris Duckworth,
+Franklin Duruiheoma,
+Htwe Armitage,
+Naomi Ratcliffe,
+John Duffy,
+Caroline O’Keeffe,
+&
+Matt Inada-Kim
+, 2021
+, medRxiv
+DOI: 10.1101/2021.05.29.21257899
+Type: article
+RT-LAMP has high accuracy for detecting SARS-CoV-2 in saliva and naso/oropharyngeal swabs from asymptomatic and symptomatic individuals
+Stephen Kidd,
+Daniel Burns,
+Bryony
+Armson,
+Andrew D. Beggs,
+Emma L. A.
+Howson,
+Anthony Williams,
+Gemma
+Snell,
+Emma L. Wise,
+Alice
+Goring,
+Zoé Vincent-Mistiaen,
+Seden
+Grippon,
+Jason
+Sawyer,
+Claire
+Cassar,
+David
+Cross,
+Tom
+Lewis,
+Scott Reid,
+Samantha
+Rivers,
+Joe James,
+Paul Skinner,
+Ashley
+Banyard,
+Kerrie Davies,
+Anetta
+Ptasinska,
+Celina M. Whalley,
+Charlie Poxon,
+Andrew Bosworth,
+I. Michael Kidd,
+Alex G. Richter,
+Jane Burton,
+Hannah Love,
+Sarah Fouch,
+Claire Tillyer,
+Amy Sowood,
+Helen Patrick,
+Nathan Moore,
+Michael
+Andreou,
+Shailen
+Laxman,
+Nick
+Morant,
+Duncan Clark,
+Charlotte
+Walsh,
+Rebecca
+Houghton,
+Joel D Parker,
+Joanne Slater-Jefferies,
+Ian Brown,
+Zandra Deans,
+Deborah
+Porter,
+Nicholas J. Cortes,
+Keith Godfrey,
+Angela Douglas,
+Sue Hill,
+&
+Veronica L.
+Fowler
+, 2021
+DOI: 10.1101/2021.06.28.21259398
+Type: other
+Pagination
+1
+2
+Next page
+Next
+Research
+How to edit profile
+Part of the Russell Group
+Information
+For visitors
+For staff & students
+For schools & colleges
+For researchers
+For employers & recruiters
+For parents & guardians
+For international students
+Contact us
+Tel: +44(0)23 8059 5000
+Fax: +44(0)23 8059 3131
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
+Get directions
+Connect with us
+Follow us on Facebook
+Follow us on Twitter
+Follow us on Instagram
+Follow us on Linkedin
+Follow us on Youtube
+Download a copy of our prospectus or order a printed copy to be delivered to your door.
+Get a prospectus
+© 2024 University of Southampton
+Site map
+Accessibility
+Privacy
+Data protection & freedom of information
+Terms & conditions
+Contact
+Jobs
+Back
+to top
+Study
+View all courses
+Taught postgraduate study
+Postgraduate taught degree courses
+Postgraduate taught tuition fees
+Pre-masters for international students
+Funding your postgraduate taught studies
+How to apply for a postgraduate taught degree
+Pre-sessional English courses
+Pre-sessional English courses
+Course modules
+Assessment
+Subjects
+Acoustical engineering
+Audiology
+Biomedical and medical engineering
+Civil engineering
+Every day I’m completely immersed in an environment that’s creative in all aspects
+Everything I learn feels so relevant, even If it’s a subject rooted in the past
+Maritime engineering
+Photonics and optoelectronics
+Social statistics and demography
+PhDs and research degrees
+Create your own research project
+Find a PhD project
+A missing link between continental shelves and the deep sea: Have we underestimated the importance of land-detached canyons?
+A seismic study of the continent-ocean transition southwest of the UK
+A study of rolling contact fatigue in electric vehicles (EVs)
+Acoustic monitoring of forest exploitation to establish community perspectives of sustainable hunting
+Acoustic sensing and characterisation of soil organic matter
+Advancing intersectional geographies of diaspora-led development in times of multiple crises
+Aero engine fan wake turbulence – Simulation and wind tunnel experiments
+Against Climate Change (DACC): improving the estimates of forest fire smoke emissions
+All-in-one Mars in-situ resource utilisation (ISRU) system and life-supporting using non-thermal plasma
+An electromagnetic study of the continent-ocean transition southwest of the UK
+An investigation of the relationship between health, home and law in the context of poor and precarious housing, and complex and advanced illness
+Antibiotic resistance genes in chalk streams
+Being autistic in care: Understanding differences in care experiences including breakdowns in placements for autistic and non-autistic children
+Biogeochemical cycling in the critical coastal zone: Developing novel methods to make reliable measurements of geochemical fluxes in permeable sediments
+Bloom and bust: seasonal cycles of phytoplankton and carbon flux
+British Black Lives Matter: The emergence of a modern civil rights movement
+Building physics for low carbon comfort using artificial intelligence
+Building-resolved large-eddy simulations of wind and dispersion over a city scale urban area
+Business studies and management: accounting
+Business studies and management: banking and finance
+Business studies and management: decision analytics and risk
+Business studies and management: digital and data driven marketing
+Business studies and management: human resources (HR) management and organisational behaviour
+Business studies and management: strategy, innovation and entrepreneurship
+Carbon storage in reactive rock systems: determining the coupling of geo-chemo-mechanical processes in reactive transport
+Cascading hazards from the largest volcanic eruption in over a century: What happened when Hunga Tonga-Hunga Ha’apai erupted in January 2022?
+Characterisation of cast austenitic stainless steels using ultrasonic backscatter and artificial intelligence
+Climate Change effects on the developmental physiology of the small-spotted catshark
+Climate at the time of the Human settlement of the Eastern Pacific
+Collaborative privacy in data marketplaces
+Compatibility of climate and biodiversity targets under future land use change
+Cost of living in modern and fossil animals
+Creative clusters in rural, coastal and post-industrial towns
+Deep oceanic convection: the outsized role of small-scale processes
+Defect categories and their realisation in supersymmetric gauge theory
+Defining the Marine Fisheries-Energy-Environment Nexus: Learning from shocks to enhance natural resource resilience
+Design and fabrication of next generation optical fibres
+Developing a practical application of unmanned aerial vehicle technologies for conservation research and monitoring of endangered wildlife
+Development and evolution of animal biomineral skeletons
+Development of all-in-one in-situ resource utilisation system for crewed Mars exploration missions
+Ecological role of offshore artificial structures
+Effect of embankment and subgrade weathering on railway track performance
+Efficient ‘whole-life’ anchoring systems for offshore floating renewables
+Electrochemical sensing of the sea surface microlayer
+Engagement with nature among children from minority ethnic backgrounds
+Enhancing UAV manoeuvres and control using distributed sensor arrays
+Ensuring the Safety and Security of Autonomous Cyber-Physical Systems
+Environmental and genetic determinants of Brassica crop damage by the agricultural pest Diamondback moth
+Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data
+Evolution of symbiosis in a warmer world
+Examining evolutionary loss of calcification in coccolithophores
+Explainable AI (XAI) for health
+Explaining process, pattern and dynamics of marine predator hotspots in the Southern Ocean
+Exploring dynamics of natural capital in coastal barrier systems
+Exploring the mechanisms of microplastics incorporation and their influence on the functioning of coral holobionts
+Exploring the potential electrical activity of gut for healthcare and wellbeing
+Exploring the trans-local nature of cultural scene
+Facilitating forest restoration sustainability of tropical swidden agriculture
+Faulting, fluids and geohazards within subduction zone forearcs
+Faulting, magmatism and fluid flow during volcanic rifting in East Africa
+Fingerprinting environmental releases from nuclear facilities
+Flexible hybrid thermoelectric materials for wearable energy harvesting
+Floating hydrokinetic power converter
+Glacial sedimentology associated subglacial hydrology
+Green and sustainable Internet of Things
+How do antimicrobial peptides alter T cell cytokine production?
+How do calcifying marine organisms grow? Determining the role of non-classical precipitation processes in biogenic marine calcite formation
+How do neutrophils alter T cell metabolism?
+How well can we predict future changes in biodiversity using machine learning?
+Hydrant dynamics for acoustic leak detection in water pipes
+If ‘Black Lives Matter’, do ‘Asian Lives Matter’ too? Impact trajectories of organisation activism on wellbeing of ethnic minority communities
+Illuminating luciferin bioluminescence in dinoflagellates
+Imaging quantum materials with an XFEL
+Impact of neuromodulating drugs on gut microbiome homeostasis
+Impact of pharmaceuticals in the marine environment in a changing world
+Impacts of environmental change on coastal habitat restoration
+Improving subsea navigation using environment observations for long term autonomy
+Information theoretic methods for sensor management
+Installation effect on the noise of small high speed fans
+Integrated earth observation mapping change land sea
+Interconnections of past greenhouse climates
+Investigating IgG cell depletion mechanisms
+Is ocean mixing upside down? How mixing processes drive upwelling in a deep-ocean basin
+Landing gear aerodynamics and aeroacoustics
+Lightweight gas storage: real-world strategies for the hydrogen economy
+Long-term change in the benthos – creating robust data from varying camera systems
+Machine learning for multi-robot perception
+Machine learning for multi-robot perception
+Marine ecosystem responses to past climate change and its oceanographic impacts
+Mechanical effects in the surf zone - in situ electrochemical sensing
+Microfluidic cell isolation systems for sepsis
+Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
+Miniaturisation in fishes: evolutionary and ecological perspectives
+Modelling high-power fibre laser and amplifier stability
+Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
+Modelling the evolution of adaptive responses to climate change across spatial landscapes
+Nanomaterials sensors for biomedicine and/or the environment
+New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
+New perspectives on ocean photosynthesis
+Novel methods of detecting carbon cycling pathways in lakes and their impact on ecosystem change
+Novel technologies for cyber-physical security
+Novel transparent conducting films with unusual optoelectronic properties
+Novel wavelength fibre lasers for industrial applications
+Ocean circulation and the Southern Ocean carbon sink
+Ocean influence on recent climate extremes
+Ocean methane sensing using novel surface plasmon resonance technology
+Ocean physics and ecology: can robots disentangle the mix?
+Ocean-based Carbon Dioxide Removal: Assessing the utility of coastal enhanced weathering
+Offshore renewable energy (ORE) foundations on rock seabeds: advancing design through analogue testing and modelling
+Optical fibre sensing for acoustic leak detection in buried pipelines
+Optimal energy transfer in nonlinear systems
+Optimal energy transfer in nonlinear systems
+Optimizing machine learning for embedded systems
+Oxidation of fossil organic matter as a source of atmospheric CO2
+Partnership dissolution and re-formation in later life among individuals from minority ethnic communities in the UK
+Personalized multimodal human-robot interactions
+Preventing disease by enhancing the cleaning power of domestic water taps using sound
+Quantifying riparian vegetation dynamics and flow interactions for Nature Based Solutions using novel environmental sensing techniques
+Quantifying the response and sensitivity of tropical forest carbon sinks to various drivers
+Quantifying variability in phytoplankton electron requirements for carbon fixation
+Resilient and sustainable steel-framed building structures
+Resolving Antarctic meltwater events in Southern Ocean marine sediments and exploring their significance using climate models
+Robust acoustic leak detection in water pipes using contact sound guides
+Silicon synapses for artificial intelligence hardware
+Smart photon delivery via reconfigurable optical fibres
+The Gulf Stream control of the North Atlantic carbon sink
+The Mayflower Studentship: a prestigious fully funded PhD studentship in bioscience
+The calming effect of group living in social fishes
+The duration of ridge flank hydrothermal exchange and its role in global biogeochemical cycles
+The evolution of symmetry in echinoderms
+The impact of early life stress on neuronal enhancer function
+The oceanic fingerprints on changing monsoons over South and Southeast Asia
+The role of iron in nitrogen fixation and photosynthesis in changing polar oceans
+The role of singlet oxygen signaling in plant responses to heat and drought stress
+Time variability on turbulent mixing of heat around melting ice in the West Antarctic
+Triggers and Feedbacks of Climate Tipping Points
+Uncovering the drivers of non-alcoholic fatty liver disease progression using patient derived organoids
+Understanding recent land-use change in Snowdonia to plan a sustainable future for uplands: integrating palaeoecology and conservation practice
+Understanding the role of cell motility in resource acquisition by marine phytoplankton
+Understanding the structure and engagement of personal networks that support older people with complex care needs in marginalised communities and their ability to adapt to increasingly ‘digitalised’ health and social care
+Unpicking the Anthropocene in the Hawaiian Archipelago
+Unraveling oceanic multi-element cycles using single cell ionomics
+Unravelling southwest Indian Ocean biological productivity and physics: a machine learning approach
+Using acoustics to monitor how small cracks develop into bursts in pipelines
+Using machine learning to improve predictions of ocean carbon storage by marine life
+Vulnerability of low-lying coastal transportation networks to natural hazards
+Wideband fibre optical parametric amplifiers for Space Division Multiplexing technology
+Will it stick? Exploring the role of turbulence and biological glues on ocean carbon storage
+X-ray imaging and property characterisation of porous materials
+Funding your research degree
+How to apply for a PhD or research degree
+How to make a PhD enquiry
+Support while studying your PhD or research degree
+Exchanges and studying abroad
+Undergraduate study
+Undergraduate degree courses
+Foundation year programmes
+Undergraduate tuition fees
+Customise your degree
+Funding undergraduate studies
+How to apply
+Tuition fees and funding
+Scholarships
+Postgraduate scholarships for UK students
+Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
+Southampton Business School Postgraduate UK Scholarship
+GREAT Scholarships 2024 – Greece
+Undergraduate scholarships for UK students
+Competitive scholarships for international postgraduates
+Winchester School of Art Postgraduate Global Talent Scholarship
+Competitive scholarships for international undergraduates
+Southampton Physics and Astronomy Achievement Scholarship
+Southampton University Corporate Civil Engineering Scholarship Scheme
+Merit scholarships for international postgraduates
+Merit scholarships for international undergraduates
+Partnership scholarships for international students
+Scholarships, awards and funding opportunities
+Becas Chile Scholarship
+Chevening Scholarships
+China Scholarship Council Scholarships
+COLFUTURO
+Scholarships
+Commonwealth Distance Learning Scholarships
+Commonwealth Master's Scholarships
+Commonwealth PhD Scholarships
+Commonwealth PhD Scholarships for high income countries
+Commonwealth Shared Scholarships
+Commonwealth Split-Site Scholarships
+FIDERH Scholarships
+Fulbright Awards
+FUNED Scholarships
+Great Scholarships 2024 – India
+Great Scholarships 2024 – Bangladesh
+Great Scholarships 2024 – Mexico
+Great Scholarships 2024 – Nigeria
+Marshall Scholarship
+Saïd Foundation Scholarships
+British Council Scholarships for Women in STEM
+Xiamen University PhD Scholarships
+GREAT scholarships for justice and law 2024 – Indonesia
+Scholarship terms and conditions
+Southampton Canadian Prestige Scholarship for Law
+Southampton Presidential International Scholarship
+Short courses
+Continuing professional development
+Lunchtime evening and weekend courses
+Clearing
+Summer schools
+Get a prospectus
+Student life
+Accommodation
+Choose your halls of residence
+Archers Road
+City Gateway
+Erasmus Park
+Glen Eyre
+Highfield Hall
+Mayflower
+Wessex Lane
+Apply for accommodation
+Guaranteed accommodation
+Your accommodation options
+International and pre-sessional students
+Postgraduate accommodation
+Couples and students with children
+Renting privately
+Our accommodation areas
+Privacy notice
+Terms and conditions
+Fees and contracts
+Our cities
+Southampton
+Winchester
+Malaysia
+Sports and gyms
+Sports facilities
+Sports clubs
+Watersports centres
+Our campuses
+Avenue Campus
+Boldrewood Innovation Campus
+Highfield Campus
+University Hospital Southampton
+Waterfront Campus
+Winchester Campus
+Join our student community
+What's on
+Clubs and societies
+Sports teams
+SUSU places
+Representing you
+SUSU support and advice
+Support and money
+Living costs
+Academic and mental health support
+Support for disabled students
+Part-time work
+Health services
+Research
+Our impact
+Research projects
+Research areas
+Research facilities
+Geotechnical Centrifuge
+Maritime Robotics and Instrumentation Laboratory (MRIL)
+Collaborate with us
+Institutes, centres and groups
+Active Living
+Advanced Fibre Applications
+Advanced Laser Laboratory
+Advanced Project Management Research Centre
+Antibody and Vaccine Group
+Astronomy Group
+Autism Community Research Network @ Southampton (ACoRNS)
+Bioarchaeology and Osteoarchaeology at Southampton (BOS)
+Bladder and Bowel Management
+Cell and Developmental Biology
+Centre for Defence and Security Research
+Centre for Developmental Origins of Health and Disease
+Centre for Digital Finance
+Centre for Eastern European and Eurasian Studies (CEEES)
+Centre for Empirical Research in Finance and Banking (CERFIB)
+Centre for Geometry, Topology, and Applications
+Centre for Global Englishes
+Centre for Global Health and Policy (GHaP)
+Centre for Health Technologies
+Centre for Healthcare Analytics
+Centre for Human Development, Stem Cells and Regeneration
+Centre for Imperial and Postcolonial Studies
+Centre for Inclusive and Sustainable Entrepreneurship and Innovation (CISEI)
+Centre for International Film Research (CIFR)
+Centre for International Law and Globalisation
+Centre for Internet of Things and Pervasive Systems
+Centre for Justice Studies
+Centre for Linguistics, Language Education and Acquisition Research
+Centre for Machine Intelligence
+Centre for Maritime Archaeology
+Centre for Medieval and Renaissance Culture (CMRC)
+Centre for Modern and Contemporary Writing (CMCW)
+Centre for Music Education and Social Justice
+Centre for Political Ethnography (CPE)
+Centre for Research in Accounting, Accountability and Governance
+Centre for Research on Work and Organisations
+Centre for Transnational Studies
+Child and Adolescent Research Group
+Clinical Ethics, Law and Society (CELS)
+Computational Nonlinear Optics
+Cyber Security Academy
+Data Science Group
+Economic Theory and Experimental Economics
+Economy, Society and Governance
+Electrical Power Engineering
+Gas Photonics in Hollow Core Fibres
+Geochemistry
+Global Health (Demography)
+Global Health Community of Practice
+Gravity group
+High Power Fibre Lasers
+Hollow Core Fibre
+Human Genetics and Genomic Medicine
+Infection
+Infrastructure Group
+Institute of Maritime Law (IML)
+Integrated Photonic Devices
+Integrative Molecular Phenotyping Centre
+Interdisciplinary Musculoskeletal Health
+Language Assessment and Testing Unit (LATU)
+Laser-Direct-Write (LDW) Technologies for Biomedical Applications
+Law and Technology Centre
+Long Term Conditions
+Magnetic Resonance
+Mathematical Modelling
+Medicines Management
+Molecular and Precision Biosciences
+Multiwavelength Accretion and Astronomical Transients
+National Biofilms Innovation Centre (NBIC)
+National Centre for Research Methods
+National Infrastructure Laboratory
+Operational Research
+Optical Engineering and Quantum Photonics Group
+Paediatrics and Child Health - Clinical and Experimental Sciences
+People, Property, Community
+Photonic Systems, Circuits and Sensors Group
+Physical Optics
+Primary Care Research Centre
+Product Returns Research Group (PRRG)
+Silica Fibre Fabrication
+Silicon Photonics
+Southampton Centre for Nineteenth-Century Research
+Southampton Ethics Centre
+Southampton Health Technology Assessments Centre (SHTAC)
+Southampton High Energy Physics group
+Southampton Imaging
+Southampton Theory Astrophysics and Gravity (STAG) Research Centre
+Stefan Cross Centre for Women, Equality and Law
+String theory and holography
+The India Centre for Inclusive Growth and Sustainable Development
+The Parkes Institute
+Tony Davies High Voltage Laboratory
+Ultrafast X-ray Group
+Vision Science
+Work Futures Research Centre (WFRC)
+Support for researchers
+Faculties, schools and departments
+Research jobs
+Find people and expertise
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Find people and expertise
+Global
+International students
+International Office
+Partnerships and initiatives
+Visiting delegations
+Visiting fellowships
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact

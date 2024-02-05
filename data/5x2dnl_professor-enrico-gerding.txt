@@ -1,0 +1,853 @@
+Professor Enrico Gerding | University of Southampton
+Skip to main content
+We would love your feedback on our new site
+Tell us what you think
+Tell us what you think
+Don't ask me again
+Open menu
+The University of Southampton
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
+Study
+Student life
+Research
+Business
+Global
+Search the site
+Search
+Study
+View all courses
+Taught postgraduate study
+Postgraduate taught degree courses
+Postgraduate taught tuition fees
+Pre-masters for international students
+Funding your postgraduate taught studies
+How to apply for a postgraduate taught degree
+Pre-sessional English courses
+Subjects
+PhDs and research degrees
+Create your own research project
+Find a PhD project
+Funding your research degree
+How to apply for a PhD or research degree
+How to make a PhD enquiry
+Support while studying your PhD or research degree
+Exchanges and studying abroad
+Undergraduate study
+Undergraduate degree courses
+Foundation year programmes
+Undergraduate tuition fees
+Customise your degree
+Funding undergraduate studies
+How to apply
+-
+Tuition fees and funding
+-
+-
+Short courses
+-
+-
+Lunchtime evening and weekend courses
+-
+-
+Clearing
+-
+-
+Summer schools
+-
+-
+Get a prospectus
+Student life
+Accommodation
+Choose your halls of residence
+Apply for accommodation
+Guaranteed accommodation
+Your accommodation options
+International and pre-sessional students
+Postgraduate accommodation
+Couples and students with children
+Renting privately
+Our accommodation areas
+Privacy notice
+Terms and conditions
+Fees and contracts
+Our cities
+Southampton
+Winchester
+Malaysia
+Sports and gyms
+Sports facilities
+Sports clubs
+Watersports centres
+Our campuses
+Avenue Campus
+Boldrewood Innovation Campus
+Highfield Campus
+University Hospital Southampton
+Waterfront Campus
+Winchester Campus
+Join our student community
+What's on
+Clubs and societies
+Sports teams
+SUSU places
+Representing you
+SUSU support and advice
+Support and money
+Living costs
+Academic and mental health support
+Support for disabled students
+Part-time work
+Health services
+Research
+Our impact
+Research projects
+Research areas
+Research facilities
+Collaborate with us
+Institutes, centres and groups
+Support for researchers
+Faculties, schools and departments
+Research jobs
+Find people and expertise
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Find people and expertise
+Global
+International students
+International Office
+Partnerships and initiatives
+Visiting delegations
+Visiting fellowships
+View all staff
+Professor Enrico Gerding
+Professor
+Research interests
+artificial intelligence
+autonomous agents and multi-agent systems
+algorithmics game theory
+More research
+Accepting applications from PhD students.
+Connect with Enrico
+Email: eg@ecs.soton.ac.uk
+Address: B32, East Highfield Campus, University Road, SO17 1BJ
+(View in Google Maps)
+ORCID
+LinkedIn
+On this page
+About
+Research
+Publications
+Teaching
+External roles and responsibilities
+Biography
+About
+Dr Enrico Gerding is an Associate Professor in the Agents, Interaction and Complexity (AIC) research group in the Department of Electronics and Computer Science (ECS) at the University of Southampton. He has been an academic at Southampton since 2007. He received his PhD from the Dutch National Center of Mathematics and Computer Science (CWI) in 2004. His research focuses on artificial intelligence, specifically autonomous agents and multi-agent systems. He has more than 100 peer-reviewed publications in high quality conferences, journals and books in this area. Please see the research tab below for details. Enrico has supervised 19 PhD students to completion. He is the director of Southampton's Centre for Machine Intelligence which brings together AI expertise in ECS. Since 2020 he is a board member of the International Foundation for Autonomous Agents and Multiagent Systems (IFAAMAS) which organises the annual Autonomous Agents and Multiagent Systems (AAMAS) conference. He is also local organiser of AAMAS 2021. He teaches the MSc module Intelligent Agents (see below for more details on teaching). Currently he is a co-I on several funded projects, including the EPSRC-funded AutoTrust platform grant, the Shell-funded Centre for Maritime Futures.
+PhD Studentships. I'm interested in supervising motivated students, and there are plenty of opportunities for fully funded studentships. Note that most studentships only fund UK fees. So if you are an international student without permanent residance (or pre-settled) status, you may have to cover the difference between UK and international fees. For Chinese students, there are various collaborations with the CSC scholarship scheme and it's worth looking into this. Please get in touch to discuss the options and potential topics. See also my research interests below.
+Areas of Interest: Multi-Agent Systems, Mechanism Design, Auctions, Algorithmic Game Theory, Agent-Based Negotiation, Fairness, Smart Energy, Electric Vehicles, Connected and Autonomous Vehicles, Future Transportation Systems, Computational Finance, Privacy, Meaningful Consent, Car Sharing, Ride Sharing, Preference Elicitation, Machine Learning
+Research
+Research
+Research groups
+Member of:
+Southampton Marine and Maritime Institute
+Centre for Digital Finance
+Centre for Machine Intelligence
+Agents, Interaction and Complexity
+Product Returns Research Group
+UKRI AI Centre for Doctoral Training in AI for Sustainability (SustAI)
+Research interests
+artificial intelligence
+autonomous agents and multi-agent systems
+algorithmics game theory
+mechanism design and incentive engineering
+smart grid
+Current research
+My main research focuses on applications where autonomous self-interested agents compete in markets and negotiate, and where designing appropriate incentives is important to ensure a well functioning and fair society. My research combines theory, mainly game theory and mechanism design, with practical applications. Specific applications include: autonomous vehicles, the smart grid, online advertising markets, cloud computing, algorithmic trading, ride sharing and data privacy.
+I'm currently an investigator on the following projects:
+AutoTrust: Human Centered Internet of Vehicles
+This EPSRC-funded platfrom grants looks at a wide range of aspects around the Connected and Autonomous Vehicles (CAVs), such as the interaction with autonomous systems (human-to-vehicle interaction), the issue of data privacy and consent, as well as the incentives and optimisation of e.g. traffic flow. Specific topics include: how do platoons form and how can they be used most effectively to improve traffic flow; how can we incentivise better use of public transport and/or shared vehicles (ride sharing); how can we best combine different modes of transport to reduce carbon emissions; how can we ensure that transportation data can be stored securely and used for research purposes; in autonomous vehicles and autonomous systems more generally, how can we reason about concepts such as responsibility and accountability especially when there is shared responsibility of a coalition (e.g. in case of a collision).
+The project is a collaboration with the Warwick Manufacturing Group (WMG). Investigators on the project in Southampton are: prof m.c. schraefel (PI) and Dr Sebastian Stein. Researchers currently employed on the project include: Dr Vahid Yazdanpanah and Dr Richard Gomer.
+Forecasting and influencing product returns and fraud rates in a Covid-19 world
+This ESRC project is led by Dr Gina Frei from the Southampton Business School and is a collaboration between ECS and the business school. The aim is to look at product returns fraud which has been aggravated due to COVID 19. Many retailers are faced with this issue. The project will consider different interventions to reduce fraud and analyse through a combination of interview studies and agent-based modelling.
+Shell Centre for Maritime Futures
+This collaboration between Shell Shipping, ECS and Engineering aims to reduce carbon emissions in shipping. The ECS team is building an agent-based simulation platform to simulate trades and shipping routes, which can be used to find the most cost effective CO2 reduction measures over a long-term (5-20 years) time horizon.
+Past projects include:
+Meaningful Consent in the Digital Economy
+Manager of:
+Dr Vahid Yazdanpanah
+Jan Buermann
+Current PhD students:
+Dorota Filipczuk (with George Konstantinidis).
+Nicholas Bishop (with Long Tran-Thanh)
+Manuel Nunes (with Frank McGroarty and Mahesan Niranjan)
+Zhongqi Cai (with Markus Brede)
+Wanying Zhou (with Frank McGroarty and Ramin Okhrati)
+Jan Buermann (with Jie Zhang and Bahar Rastegari)
+Fan Bi (with Sebastian Stein and Nicholas R. Jennings)
+Phuriwat (Turk) Worrawichaipat (with Gopal Ramchurn and Ioannis Kaparias)
+Alexander Masterman (with Sebastian Stein)
+Zhaori (Charles) Guo (with Tim Norman)
+Past students: Dr Simon Williamson (2010), Dr Bing Shi (2011), Dr Colin Williams (2012), Dr Ali Aseere (2012), Dr Harry Rose (2013), Dr Lampros Savrogiannis (2014), Dr Ash Booth (2016), Dr Chetan Mehra (2016), Dr Chris Hughes (2017), Dr Sofia Ceppi, Dr Mohamed Bakoush (2018), Dr Valerio Restocchi (2018), Dr Radu Pruna (2018), Dr Ibrahem Almansour (2018), Dr Efstathios Zavvos (2019), Dr Laurie Carver (2019), Dr Fatma Habib (2020), Dr Alvaro Perez (2020), Vincent Marmion (2021)
+Research projects
+Active projects
+Ethnic minority business data in the UK
+Researchers:
+Professor Ajit Nayak
+,
+Professor Enrico Gerding
+AutoTrust: Human-Cyber Design for Resiliant, Useful, Usable Internet of Vehicles
+Researchers:
+Professor m.c.
+Schraefel
+,
+Professor Enrico Gerding
+,
+Professor Sebastian Stein
+Sponsor: EPSRC
+Completed projects
+EuroCores Logiccc: Computational Foundations Of Social Choice
+Researchers:
+Professor Enrico Gerding
+Sponsor: ESRC
+KTI -
+Dr Enrico Gerding
+Researchers:
+Professor Enrico Gerding
+Sponsor: Crimson Tangerine Ltd
+Complex Computational Systems
+Researchers:
+Professor Enrico Gerding
+,
+Professor Adam Prugel-Bennett
+Sponsor: EPSRC
+SIMM: Services For Intelligent Mobility Management
+Researchers:
+Professor Enrico Gerding
+Sponsor: EPSRC
+Meaningful Consent in the Digital Economy
+Researchers:
+Professor m.c.
+Schraefel
+,
+Professor Enrico Gerding
+,
+Professor Michael Vlassopoulos
+Sponsor: EPSRC
+Forecasting and influencing product returns and fraud rates in a Covid-19 world
+Researchers:
+Gary Wills
+,
+Professor Enrico Gerding
+,
+Doctor PK Senyo
+,
+Doctor Steffen Bayer
+About
+Publications
+Publications
+187 publications
+Page 1 of 19
+On the legal aspects of responsible AI: adaptive change, human oversight, and societal outcomes
+Daria Onitiu,
+Vahid Yazdanpanah,
+Adriane Chapman,
+Enrico Gerding,
+Stuart E. Middleton,
+&
+Jennifer Williams
+, 2023
+Type: conference
+Accelerating convergence of inference in the inverse Ising problem
+Zhongqi Cai,
+Enrico Gerding,
+&
+Markus Brede
+, 2023
+, Physica A: Statistical Mechanics and its Applications
+, 632
+(Part 1)
+DOI: 10.1016/j.physa.2023.129348
+Type: article
+MADDM: multi-advisor dynamic binary decision-making by maximizing the utility
+Zhaori Guo,
+Timothy Norman,
+&
+Enrico Gerding
+, 2023
+Type: conference
+Who to watch when? Strategic observation in the inverse ising problem
+Zhongqi Cai,
+Enrico Gerding,
+&
+Markus Brede
+, 2023
+Type: conference
+Multi-agent signal-less intersection management with dynamic platoon formation
+Phuriwat Worrawichaipat,
+Enrico Gerding,
+Ioannis Kaparias,
+&
+Sarvapali Ramchurn
+, 2023
+Type: conference
+Consent management in data workflows
+Dorota Filipczuk,
+Enrico H. Gerding,
+&
+George Konstantinidis
+, 2023
+DOI: 10.48786/edbt.2023.61
+Type: conference
+Sustainability-Oriented Route Generation for Ridesharing Services
+Mengya Liu,
+Vahid Yazdanpanah,
+Sebastian Stein,
+&
+Enrico Gerding
+, 2023
+, Computer Science and Information Systems
+Type: article
+Strategies and practices to reduce the ecological impact of product returns
+Danni Zhang,
+Regina Frei,
+Gary Wills,
+Enrico Gerding,
+Steffen Bayer,
+&
+PK Senyo
+, 2023
+, Business Strategy and the Environment
+, 32
+(7)
+, 4636--4661
+DOI: 10.1002/bse.3385
+Type: article
+Opinion dynamics explain price formation in prediction markets
+Valerio Restocchi,
+Frank McGroarty,
+Enrico Gerding,
+&
+Markus Brede
+, 2023
+, Entropy
+, 25
+(8)
+Type: article
+Understanding fraudulent returns and mitigation strategies in multichannel retailing
+Danni Zhang,
+Regina Frei,
+P.K. Senyo,
+Steffen Bayer,
+Enrico Gerding,
+Gary Wills,
+&
+Adrian Beck
+, 2022
+, Journal of Retailing and Consumer Services
+, 70
+DOI: 10.1016/j.jretconser.2022.103145
+Type: article
+Pagination
+1
+2
+3
+4
+5
+…
+Next page
+Next
+Research
+Teaching
+Teaching
+I'm teaching:
+COMP6203 Intelligent Agents
+This module gives a broad introduction to the new and rapidly expanding field of agent-based computing. It introduces the key concepts and models of the field, dealing both with the individual agents and with their interactions. Particular emphasis is placed on automated negotiation, cooperation and on-line auctions, and students are required to program a trading agent in Java which will compete in a class tournament within a simulated trading environment. Main topics include: agent-based negotiation, game theory, auctions, voting, preference elicitation and cooperative games.
+COMP3208 Social Computing Techniques
+This module is about using online collective intelligence or the wisdom of the crowd in various business and research applications and the underlying technologies and algorithms that are used in practice. The main topics covered include: Crowdsourcing, Recommender Systems, Reputation Systems, Experimental Design and Web Analytics, Online Advertising Auctions and Rank Aggregation.
+Publications
+External roles and responsibilities
+External roles and responsibilities
+Name:
+Forecasting and modelling product returns, presented at the EurOMA Sustainability Forum 2022
+Role:
+Speaker
+Year:
+2021
+Name:
+Journal of AI Research (Journal)
+Role:
+Member of editorial board
+Year:
+2018 -
+Teaching
+Biography
+Biography
+Prizes
+Best Abstract Spotlight (2021)
+Blue Sky Ideas Award (Special Mention) at the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2021) (2021)
+External roles and responsibilities
+How to edit profile
+Part of the Russell Group
+Information
+For visitors
+For staff & students
+For schools & colleges
+For researchers
+For employers & recruiters
+For parents & guardians
+For international students
+Contact us
+Tel: +44(0)23 8059 5000
+Fax: +44(0)23 8059 3131
+University of Southampton
+University Road
+Southampton
+SO17 1BJ
+United Kingdom
+Get directions
+Connect with us
+Follow us on Facebook
+Follow us on Twitter
+Follow us on Instagram
+Follow us on Linkedin
+Follow us on Youtube
+Download a copy of our prospectus or order a printed copy to be delivered to your door.
+Get a prospectus
+© 2024 University of Southampton
+Site map
+Accessibility
+Privacy
+Data protection & freedom of information
+Terms & conditions
+Contact
+Jobs
+Back
+to top
+Study
+View all courses
+Taught postgraduate study
+Postgraduate taught degree courses
+Postgraduate taught tuition fees
+Pre-masters for international students
+Funding your postgraduate taught studies
+How to apply for a postgraduate taught degree
+Pre-sessional English courses
+Pre-sessional English courses
+Course modules
+Assessment
+Subjects
+Acoustical engineering
+Audiology
+Biomedical and medical engineering
+Civil engineering
+Every day I’m completely immersed in an environment that’s creative in all aspects
+Everything I learn feels so relevant, even If it’s a subject rooted in the past
+Maritime engineering
+Photonics and optoelectronics
+Social statistics and demography
+PhDs and research degrees
+Create your own research project
+Find a PhD project
+A missing link between continental shelves and the deep sea: Have we underestimated the importance of land-detached canyons?
+A seismic study of the continent-ocean transition southwest of the UK
+A study of rolling contact fatigue in electric vehicles (EVs)
+Acoustic monitoring of forest exploitation to establish community perspectives of sustainable hunting
+Acoustic sensing and characterisation of soil organic matter
+Advancing intersectional geographies of diaspora-led development in times of multiple crises
+Aero engine fan wake turbulence – Simulation and wind tunnel experiments
+Against Climate Change (DACC): improving the estimates of forest fire smoke emissions
+All-in-one Mars in-situ resource utilisation (ISRU) system and life-supporting using non-thermal plasma
+An electromagnetic study of the continent-ocean transition southwest of the UK
+An investigation of the relationship between health, home and law in the context of poor and precarious housing, and complex and advanced illness
+Antibiotic resistance genes in chalk streams
+Being autistic in care: Understanding differences in care experiences including breakdowns in placements for autistic and non-autistic children
+Biogeochemical cycling in the critical coastal zone: Developing novel methods to make reliable measurements of geochemical fluxes in permeable sediments
+Bloom and bust: seasonal cycles of phytoplankton and carbon flux
+British Black Lives Matter: The emergence of a modern civil rights movement
+Building physics for low carbon comfort using artificial intelligence
+Building-resolved large-eddy simulations of wind and dispersion over a city scale urban area
+Business studies and management: accounting
+Business studies and management: banking and finance
+Business studies and management: decision analytics and risk
+Business studies and management: digital and data driven marketing
+Business studies and management: human resources (HR) management and organisational behaviour
+Business studies and management: strategy, innovation and entrepreneurship
+Carbon storage in reactive rock systems: determining the coupling of geo-chemo-mechanical processes in reactive transport
+Cascading hazards from the largest volcanic eruption in over a century: What happened when Hunga Tonga-Hunga Ha’apai erupted in January 2022?
+Characterisation of cast austenitic stainless steels using ultrasonic backscatter and artificial intelligence
+Climate Change effects on the developmental physiology of the small-spotted catshark
+Climate at the time of the Human settlement of the Eastern Pacific
+Collaborative privacy in data marketplaces
+Compatibility of climate and biodiversity targets under future land use change
+Cost of living in modern and fossil animals
+Creative clusters in rural, coastal and post-industrial towns
+Deep oceanic convection: the outsized role of small-scale processes
+Defect categories and their realisation in supersymmetric gauge theory
+Defining the Marine Fisheries-Energy-Environment Nexus: Learning from shocks to enhance natural resource resilience
+Design and fabrication of next generation optical fibres
+Developing a practical application of unmanned aerial vehicle technologies for conservation research and monitoring of endangered wildlife
+Development and evolution of animal biomineral skeletons
+Development of all-in-one in-situ resource utilisation system for crewed Mars exploration missions
+Ecological role of offshore artificial structures
+Effect of embankment and subgrade weathering on railway track performance
+Efficient ‘whole-life’ anchoring systems for offshore floating renewables
+Electrochemical sensing of the sea surface microlayer
+Engagement with nature among children from minority ethnic backgrounds
+Enhancing UAV manoeuvres and control using distributed sensor arrays
+Ensuring the Safety and Security of Autonomous Cyber-Physical Systems
+Environmental and genetic determinants of Brassica crop damage by the agricultural pest Diamondback moth
+Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data
+Evolution of symbiosis in a warmer world
+Examining evolutionary loss of calcification in coccolithophores
+Explainable AI (XAI) for health
+Explaining process, pattern and dynamics of marine predator hotspots in the Southern Ocean
+Exploring dynamics of natural capital in coastal barrier systems
+Exploring the mechanisms of microplastics incorporation and their influence on the functioning of coral holobionts
+Exploring the potential electrical activity of gut for healthcare and wellbeing
+Exploring the trans-local nature of cultural scene
+Facilitating forest restoration sustainability of tropical swidden agriculture
+Faulting, fluids and geohazards within subduction zone forearcs
+Faulting, magmatism and fluid flow during volcanic rifting in East Africa
+Fingerprinting environmental releases from nuclear facilities
+Flexible hybrid thermoelectric materials for wearable energy harvesting
+Floating hydrokinetic power converter
+Glacial sedimentology associated subglacial hydrology
+Green and sustainable Internet of Things
+How do antimicrobial peptides alter T cell cytokine production?
+How do calcifying marine organisms grow? Determining the role of non-classical precipitation processes in biogenic marine calcite formation
+How do neutrophils alter T cell metabolism?
+How well can we predict future changes in biodiversity using machine learning?
+Hydrant dynamics for acoustic leak detection in water pipes
+If ‘Black Lives Matter’, do ‘Asian Lives Matter’ too? Impact trajectories of organisation activism on wellbeing of ethnic minority communities
+Illuminating luciferin bioluminescence in dinoflagellates
+Imaging quantum materials with an XFEL
+Impact of neuromodulating drugs on gut microbiome homeostasis
+Impact of pharmaceuticals in the marine environment in a changing world
+Impacts of environmental change on coastal habitat restoration
+Improving subsea navigation using environment observations for long term autonomy
+Information theoretic methods for sensor management
+Installation effect on the noise of small high speed fans
+Integrated earth observation mapping change land sea
+Interconnections of past greenhouse climates
+Investigating IgG cell depletion mechanisms
+Is ocean mixing upside down? How mixing processes drive upwelling in a deep-ocean basin
+Landing gear aerodynamics and aeroacoustics
+Lightweight gas storage: real-world strategies for the hydrogen economy
+Long-term change in the benthos – creating robust data from varying camera systems
+Machine learning for multi-robot perception
+Machine learning for multi-robot perception
+Marine ecosystem responses to past climate change and its oceanographic impacts
+Mechanical effects in the surf zone - in situ electrochemical sensing
+Microfluidic cell isolation systems for sepsis
+Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
+Miniaturisation in fishes: evolutionary and ecological perspectives
+Modelling high-power fibre laser and amplifier stability
+Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
+Modelling the evolution of adaptive responses to climate change across spatial landscapes
+Nanomaterials sensors for biomedicine and/or the environment
+New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
+New perspectives on ocean photosynthesis
+Novel methods of detecting carbon cycling pathways in lakes and their impact on ecosystem change
+Novel technologies for cyber-physical security
+Novel transparent conducting films with unusual optoelectronic properties
+Novel wavelength fibre lasers for industrial applications
+Ocean circulation and the Southern Ocean carbon sink
+Ocean influence on recent climate extremes
+Ocean methane sensing using novel surface plasmon resonance technology
+Ocean physics and ecology: can robots disentangle the mix?
+Ocean-based Carbon Dioxide Removal: Assessing the utility of coastal enhanced weathering
+Offshore renewable energy (ORE) foundations on rock seabeds: advancing design through analogue testing and modelling
+Optical fibre sensing for acoustic leak detection in buried pipelines
+Optimal energy transfer in nonlinear systems
+Optimal energy transfer in nonlinear systems
+Optimizing machine learning for embedded systems
+Oxidation of fossil organic matter as a source of atmospheric CO2
+Partnership dissolution and re-formation in later life among individuals from minority ethnic communities in the UK
+Personalized multimodal human-robot interactions
+Preventing disease by enhancing the cleaning power of domestic water taps using sound
+Quantifying riparian vegetation dynamics and flow interactions for Nature Based Solutions using novel environmental sensing techniques
+Quantifying the response and sensitivity of tropical forest carbon sinks to various drivers
+Quantifying variability in phytoplankton electron requirements for carbon fixation
+Resilient and sustainable steel-framed building structures
+Resolving Antarctic meltwater events in Southern Ocean marine sediments and exploring their significance using climate models
+Robust acoustic leak detection in water pipes using contact sound guides
+Silicon synapses for artificial intelligence hardware
+Smart photon delivery via reconfigurable optical fibres
+The Gulf Stream control of the North Atlantic carbon sink
+The Mayflower Studentship: a prestigious fully funded PhD studentship in bioscience
+The calming effect of group living in social fishes
+The duration of ridge flank hydrothermal exchange and its role in global biogeochemical cycles
+The evolution of symmetry in echinoderms
+The impact of early life stress on neuronal enhancer function
+The oceanic fingerprints on changing monsoons over South and Southeast Asia
+The role of iron in nitrogen fixation and photosynthesis in changing polar oceans
+The role of singlet oxygen signaling in plant responses to heat and drought stress
+Time variability on turbulent mixing of heat around melting ice in the West Antarctic
+Triggers and Feedbacks of Climate Tipping Points
+Uncovering the drivers of non-alcoholic fatty liver disease progression using patient derived organoids
+Understanding recent land-use change in Snowdonia to plan a sustainable future for uplands: integrating palaeoecology and conservation practice
+Understanding the role of cell motility in resource acquisition by marine phytoplankton
+Understanding the structure and engagement of personal networks that support older people with complex care needs in marginalised communities and their ability to adapt to increasingly ‘digitalised’ health and social care
+Unpicking the Anthropocene in the Hawaiian Archipelago
+Unraveling oceanic multi-element cycles using single cell ionomics
+Unravelling southwest Indian Ocean biological productivity and physics: a machine learning approach
+Using acoustics to monitor how small cracks develop into bursts in pipelines
+Using machine learning to improve predictions of ocean carbon storage by marine life
+Vulnerability of low-lying coastal transportation networks to natural hazards
+Wideband fibre optical parametric amplifiers for Space Division Multiplexing technology
+Will it stick? Exploring the role of turbulence and biological glues on ocean carbon storage
+X-ray imaging and property characterisation of porous materials
+Funding your research degree
+How to apply for a PhD or research degree
+How to make a PhD enquiry
+Support while studying your PhD or research degree
+Exchanges and studying abroad
+Undergraduate study
+Undergraduate degree courses
+Foundation year programmes
+Undergraduate tuition fees
+Customise your degree
+Funding undergraduate studies
+How to apply
+Tuition fees and funding
+Scholarships
+Postgraduate scholarships for UK students
+Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
+Southampton Business School Postgraduate UK Scholarship
+GREAT Scholarships 2024 – Greece
+Undergraduate scholarships for UK students
+Competitive scholarships for international postgraduates
+Winchester School of Art Postgraduate Global Talent Scholarship
+Competitive scholarships for international undergraduates
+Southampton Physics and Astronomy Achievement Scholarship
+Southampton University Corporate Civil Engineering Scholarship Scheme
+Merit scholarships for international postgraduates
+Merit scholarships for international undergraduates
+Partnership scholarships for international students
+Scholarships, awards and funding opportunities
+Becas Chile Scholarship
+Chevening Scholarships
+China Scholarship Council Scholarships
+COLFUTURO
+Scholarships
+Commonwealth Distance Learning Scholarships
+Commonwealth Master's Scholarships
+Commonwealth PhD Scholarships
+Commonwealth PhD Scholarships for high income countries
+Commonwealth Shared Scholarships
+Commonwealth Split-Site Scholarships
+FIDERH Scholarships
+Fulbright Awards
+FUNED Scholarships
+Great Scholarships 2024 – India
+Great Scholarships 2024 – Bangladesh
+Great Scholarships 2024 – Mexico
+Great Scholarships 2024 – Nigeria
+Marshall Scholarship
+Saïd Foundation Scholarships
+British Council Scholarships for Women in STEM
+Xiamen University PhD Scholarships
+GREAT scholarships for justice and law 2024 – Indonesia
+Scholarship terms and conditions
+Southampton Canadian Prestige Scholarship for Law
+Southampton Presidential International Scholarship
+Short courses
+Continuing professional development
+Lunchtime evening and weekend courses
+Clearing
+Summer schools
+Get a prospectus
+Student life
+Accommodation
+Choose your halls of residence
+Archers Road
+City Gateway
+Erasmus Park
+Glen Eyre
+Highfield Hall
+Mayflower
+Wessex Lane
+Apply for accommodation
+Guaranteed accommodation
+Your accommodation options
+International and pre-sessional students
+Postgraduate accommodation
+Couples and students with children
+Renting privately
+Our accommodation areas
+Privacy notice
+Terms and conditions
+Fees and contracts
+Our cities
+Southampton
+Winchester
+Malaysia
+Sports and gyms
+Sports facilities
+Sports clubs
+Watersports centres
+Our campuses
+Avenue Campus
+Boldrewood Innovation Campus
+Highfield Campus
+University Hospital Southampton
+Waterfront Campus
+Winchester Campus
+Join our student community
+What's on
+Clubs and societies
+Sports teams
+SUSU places
+Representing you
+SUSU support and advice
+Support and money
+Living costs
+Academic and mental health support
+Support for disabled students
+Part-time work
+Health services
+Research
+Our impact
+Research projects
+Research areas
+Research facilities
+Geotechnical Centrifuge
+Maritime Robotics and Instrumentation Laboratory (MRIL)
+Collaborate with us
+Institutes, centres and groups
+Active Living
+Advanced Fibre Applications
+Advanced Laser Laboratory
+Advanced Project Management Research Centre
+Antibody and Vaccine Group
+Astronomy Group
+Autism Community Research Network @ Southampton (ACoRNS)
+Bioarchaeology and Osteoarchaeology at Southampton (BOS)
+Bladder and Bowel Management
+Cell and Developmental Biology
+Centre for Defence and Security Research
+Centre for Developmental Origins of Health and Disease
+Centre for Digital Finance
+Centre for Eastern European and Eurasian Studies (CEEES)
+Centre for Empirical Research in Finance and Banking (CERFIB)
+Centre for Geometry, Topology, and Applications
+Centre for Global Englishes
+Centre for Global Health and Policy (GHaP)
+Centre for Health Technologies
+Centre for Healthcare Analytics
+Centre for Human Development, Stem Cells and Regeneration
+Centre for Imperial and Postcolonial Studies
+Centre for Inclusive and Sustainable Entrepreneurship and Innovation (CISEI)
+Centre for International Film Research (CIFR)
+Centre for International Law and Globalisation
+Centre for Internet of Things and Pervasive Systems
+Centre for Justice Studies
+Centre for Linguistics, Language Education and Acquisition Research
+Centre for Machine Intelligence
+Centre for Maritime Archaeology
+Centre for Medieval and Renaissance Culture (CMRC)
+Centre for Modern and Contemporary Writing (CMCW)
+Centre for Music Education and Social Justice
+Centre for Political Ethnography (CPE)
+Centre for Research in Accounting, Accountability and Governance
+Centre for Research on Work and Organisations
+Centre for Transnational Studies
+Child and Adolescent Research Group
+Clinical Ethics, Law and Society (CELS)
+Computational Nonlinear Optics
+Cyber Security Academy
+Data Science Group
+Economic Theory and Experimental Economics
+Economy, Society and Governance
+Electrical Power Engineering
+Gas Photonics in Hollow Core Fibres
+Geochemistry
+Global Health (Demography)
+Global Health Community of Practice
+Gravity group
+High Power Fibre Lasers
+Hollow Core Fibre
+Human Genetics and Genomic Medicine
+Infection
+Infrastructure Group
+Institute of Maritime Law (IML)
+Integrated Photonic Devices
+Integrative Molecular Phenotyping Centre
+Interdisciplinary Musculoskeletal Health
+Language Assessment and Testing Unit (LATU)
+Laser-Direct-Write (LDW) Technologies for Biomedical Applications
+Law and Technology Centre
+Long Term Conditions
+Magnetic Resonance
+Mathematical Modelling
+Medicines Management
+Molecular and Precision Biosciences
+Multiwavelength Accretion and Astronomical Transients
+National Biofilms Innovation Centre (NBIC)
+National Centre for Research Methods
+National Infrastructure Laboratory
+Operational Research
+Optical Engineering and Quantum Photonics Group
+Paediatrics and Child Health - Clinical and Experimental Sciences
+People, Property, Community
+Photonic Systems, Circuits and Sensors Group
+Physical Optics
+Primary Care Research Centre
+Product Returns Research Group (PRRG)
+Silica Fibre Fabrication
+Silicon Photonics
+Southampton Centre for Nineteenth-Century Research
+Southampton Ethics Centre
+Southampton Health Technology Assessments Centre (SHTAC)
+Southampton High Energy Physics group
+Southampton Imaging
+Southampton Theory Astrophysics and Gravity (STAG) Research Centre
+Stefan Cross Centre for Women, Equality and Law
+String theory and holography
+The India Centre for Inclusive Growth and Sustainable Development
+The Parkes Institute
+Tony Davies High Voltage Laboratory
+Ultrafast X-ray Group
+Vision Science
+Work Futures Research Centre (WFRC)
+Support for researchers
+Faculties, schools and departments
+Research jobs
+Find people and expertise
+Business
+Why work with us?
+Collaboration
+Consultancy
+Commercialisation
+Use our facilities
+Connect with our students
+How we operate
+Suppliers
+Make a business enquiry
+Find people and expertise
+Global
+International students
+International Office
+Partnerships and initiatives
+Visiting delegations
+Visiting fellowships
+About
+Visit
+Alumni
+Departments
+News
+Events
+Contact
